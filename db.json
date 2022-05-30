@@ -1,16 +1,123 @@
 {
-  "posts":[
+  "usuario": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "correo": "jhan@gmail.com",
+      "contrasenia": "123"
+    },
+    {
+      "correo": "frank@gmail.com",
+      "contrasenia": "456"
     }
   ],
-  "comments" : [
+  
+  "producto": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "1"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "2"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "3"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "4"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "5"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "6"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "7"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "8"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "9"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "10"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "11"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "12"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "13"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "14"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "15"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "16"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "17"
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "60",
+      "descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam facilis accusamus ducimus placeat quod odit, necessitatibus quas explicabo harum iure neque ad amet nesciunt, laboriosam sunt deserunt minima pariatur culpa.",
+      "id": "18"
     }
   ]
 }
